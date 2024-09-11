@@ -9,6 +9,7 @@
     <Title>ID Generator System</Title>
     <PackageTags>.NET</PackageTags>
     <PackAsTool>True</PackAsTool>
+    <RepositoryType>https://github.com/AhmedAlbatrawy-1834/IDGeneratorSystem</RepositoryType>
   </PropertyGroup>
 
 </Project>

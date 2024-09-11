@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Ahmed Albatrawy</Authors>
+    <Description>The Package use To Generate ID</Description>
+    <Title>ID Generator System</Title>
+    <PackageTags>.NET</PackageTags>
+    <PackAsTool>True</PackAsTool>
+  </PropertyGroup>
+
+</Project>
